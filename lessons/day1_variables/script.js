@@ -9,4 +9,4 @@ console.log("Program:", program);
 console.log("Age:", age);
 // You can change the value of a variable declared with let:
 age = 28;
-console.log("Updated Age:", age);
+console.log("Updated Age:", age); 
