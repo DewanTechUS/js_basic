@@ -37,4 +37,17 @@ array.forEach((num) => {
 for (let i = 0; i < array.length; i++) {
     console.log(array[i] + 1);
 }
-    
+//div1.innerHTML = z;
+//let div2 = document.getElementsByClassName("div2");
+//div2[0].innerHTML = a;
+//let div3 = document.getElementById("div3");
+//div3.innerHTML = b; 
+    for (let j = 0; j < 3; j++) {
+        console.log("Loop iteration:", j);
+    }
+
+    let k = 0;
+    while (k < 3) {
+        console.log("While loop:", k);
+        k++;
+    }
