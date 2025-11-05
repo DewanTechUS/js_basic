@@ -33,5 +33,8 @@ console.log(obj);
 const array = [1, 2, 3, 4, 5];
 array.forEach((num) => {
     console.log(num * 2);
-});
+}); 
+for (let i = 0; i < array.length; i++) {
+    console.log(array[i] + 1);
+}
     
